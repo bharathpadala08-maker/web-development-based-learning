@@ -109,7 +109,7 @@
 <body>
 
 <header>
-    <h1>My Porfile</h1>
+    <h1>My Profile</h1>
     <p>Hello! I am a Student and Web Developer</p>
 </header>
 
@@ -125,16 +125,16 @@
 
 <section id="profile">
     <h2>My Profile</h2>
-    <p>Name: Your Name</p>
+    <p>Name: padala bharath</p>
     <p>I am a student interested in programming
        and web development.</p>
 </section>
 
 <section id="education">
     <h2>Educational Qualifications</h2>
-    <p>10th Class - Your School</p>
-    <p>Intermediate - Your College</p>
-    <p>Degree - Your University</p>
+    <p>10th Class - vignan school</p>
+    <p>Intermediate - narayana junior college</p>
+    <p>btech - Nri Institute of Technology</p>
 </section>
 
 <section id="skills">
@@ -184,10 +184,10 @@
 
 <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: yourname@example.com</p>
+    <p>Email: padalabharath@example.com</p>
     <p>Phone: 9876543210</p>
-    <p>Location: Your City</p>
-    <a class="button" href="mailto:yourname@example.com">
+    <p>Location: vijayawada</p>
+    <a class="button" href="mailto:padalabharath@example.com">
         Send Email
     </a>
 </section>
